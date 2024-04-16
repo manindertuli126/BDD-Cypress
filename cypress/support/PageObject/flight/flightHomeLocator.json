@@ -1,0 +1,14 @@
+{
+    "flightab":"//span[text()='Flights']",
+    "roundtripLink":"span:contains('Roundtrip')",
+    "onewayLink":"span:contains('One-way')",
+    "multiCityLink":"span:contains('Multi-city')",
+
+    "leavingFromBtn":"button[aria-label='Leaving from']",
+    "leavingFromTextbox":"input[placeholder='Leaving from']",
+    "goingToBtn":"button[aria-label='Going to']",
+    "goingToTextbox":"input[placeholder='Going to']",
+    "dateBtn":"",
+    "travellerBtn":"",
+    "searchBtn":""
+}
